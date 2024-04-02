@@ -1,0 +1,87 @@
+*{
+  text-decoration:none
+  
+}
+
+body{
+  background-color:#0F0A1E;
+  text-align:center
+  
+}
+h1{
+  color:#D293F0
+    
+    
+    
+}
+h2{
+  color:#D293F0
+}
+h3{
+  color:#550BF0
+}
+p{
+  color:#A831F0
+}
+a{
+  color:#2B4C7A
+}
+.j21{
+  color:#C7332C
+}
+.j22{
+  color:#DC8A84
+}
+.j23{
+  color:#DB5F64
+}
+.j24{
+  color:#4B020F
+}
+.j31{
+  color:#8E8E8E
+}
+.j32{
+  color:#E4F1FC
+}
+.j33{
+  color:#C3CBD6
+}
+.j34{
+  color:#8A8EA3
+}
+.j41{
+  color:#B5B5FF
+}
+.j42{
+  color:#D5D1FD
+}
+.j43{
+  color:#D9D6FD
+}
+.j44{
+  color:#B5B5FF
+}
+.jogos{
+  display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+
+.jogo{
+
+  width: 450px;
+
+}
+
+
+
+
+@media screen and (max-width: 900px) {
+  .jogos{
+   
+    flex-direction: column;
+
+  }
+}
